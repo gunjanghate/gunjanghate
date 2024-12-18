@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently a computer science student
+
+  🚀 Web Developer | 🎯 Competitive Programmer | 💡 Tech Enthusiast <br>
+  Building solutions that matter!
+
 
 
 ## 🌐 Socials:
