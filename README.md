@@ -7,7 +7,7 @@
     </p>
     <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #555;">
       <li>🌐 Passionate about building innovative web solutions.</li>
-      <li>💻 Experienced in solving challenging problems through competitive programming.</li>
+      <li>💻 Practicing DSA through competitive programming.</li>
       <li>🚀 Constantly learning and staying updated with the latest technologies.</li>
       <li>🎯 Focused on delivering results that create impact and drive progress.</li>
     </ul>
