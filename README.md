@@ -1,7 +1,28 @@
 # 💫 About Me:
+<div style="text-align: center; display: flex; font-family: Arial, sans-serif; padding: 20px; align-items: center; justify-content: center;">
+  <!-- Text Content Section -->
+  <div style="flex: 1; padding-right: 20px;">
+    <p style="font-size: 24px; font-weight: bold; color: #333;">
+      🚀 Web Developer | 🎯 Competitive Programmer | 💡 Tech Enthusiast
+    </p>
+    <ul style="list-style-type: none; padding: 0; font-size: 18px; color: #555;">
+      <li>🌐 Passionate about building innovative web solutions.</li>
+      <li>💻 Experienced in solving challenging problems through competitive programming.</li>
+      <li>🚀 Constantly learning and staying updated with the latest technologies.</li>
+      <li>🎯 Focused on delivering results that create impact and drive progress.</li>
+    </ul>
+    <p style="font-size: 18px; color: #555; margin-top: 20px;">
+      I am dedicated to building solutions that make a difference in the tech world and beyond!
+    </p>
+  </div>
 
-  🚀 Web Developer | 🎯 Competitive Programmer | 💡 Tech Enthusiast <br>
-  Building solutions that matter!
+  <!-- GIF Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241219%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241219T173123Z&X-Amz-Expires=300&X-Amz-Signature=38c49af8524c129b7cfffeeabc75e8308edd20942e2d3dabbb9f9195160738b3&X-Amz-SignedHeaders=host" alt="Tech Enthusiast GIF" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;" />
+  </div>
+</div>
+
+
 
 
 
