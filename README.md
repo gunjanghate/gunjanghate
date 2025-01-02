@@ -1,5 +1,5 @@
 # 💫 About Me:
-<div style="text-align: center;display: flex; font-family: Arial, sans-serif; padding: 20px; align-items: center; justify-content: center;">
+<div style="text-align: center; display: flex; font-family: Arial, sans-serif; padding: 20px; align-items: center; justify-content: center;">
   <!-- Text Content Section -->
   <div style="flex: 1; padding-right: 20px;">
     <p style="font-size: 24px; font-weight: bold; color: #333;">
