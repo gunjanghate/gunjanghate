@@ -35,13 +35,23 @@ I am dedicated to building solutions that make a difference in the tech world an
 ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- Profile Details Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/>
+</div>
 
 ---
+
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
 </picture>
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
