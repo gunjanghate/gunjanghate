@@ -1,4 +1,4 @@
- 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">  
 <img src="./Aesthetic Twitter Header.png" alt="Developer GIF" width="1000"/>
 
 # Hello there,
@@ -39,19 +39,20 @@ I am dedicated to building solutions that make a difference in the tech world an
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
 </picture>
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
