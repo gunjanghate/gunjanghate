@@ -54,6 +54,8 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
+[![An image of @gunjanghate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gunjanghate)](https://holopin.io/@gunjanghate)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
