@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Gunjan+Ghate;Web+Developer;Tech+Enthusiast;CS+Undergrad;Blockchain+Enthusiast)](https://git.io/typing-svg)
 </div>
 
+[![Visitor's Count](https://komarev.com/ghpvc/?username=gunjanghate&color=brightgreen)](https://github.com/gunjanghate)
 
 <table>
   <tr>
