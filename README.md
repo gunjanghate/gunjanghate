@@ -16,10 +16,10 @@
 <h1>💫 About Me:</h1>
 
 🚀 Web Developer | 🎯 Competitive Programmer | 🌐 Blockchain Enthusiast  
-- 🌐 Passionate about building innovative web solutions.  
-- 💻 Practicing DSA through competitive programming.  
-- 🚀 Constantly learning and staying updated with the latest technologies.  
-- 🎯 Focused on delivering results that create impact and drive progress.  
+- Passionate about building innovative web solutions.  
+- Practicing DSA through competitive programming.  
+- Constantly learning and staying updated with the latest technologies.  
+- Focused on delivering results that create impact and drive progress.  
 
 I am dedicated to building solutions that make a difference in the tech world and beyond!
 
