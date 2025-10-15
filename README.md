@@ -55,8 +55,17 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
+## Hacktoberfest'25 
 [![An image of @gunjanghate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gunjanghate)](https://holopin.io/@gunjanghate)
 
+## Badges
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/LNxGZSLWQYW8lYpq52w81A"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image"></a></blockquote>
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a9c47c51-7156-4921-9d14-cb6911a53fdf" data-share-badge-host="https://www.credly.com"></div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05f14f97-59a2-46f3-a498-22fee3d48469" data-share-badge-host="https://www.credly.com"></div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
