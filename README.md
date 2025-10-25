@@ -119,6 +119,9 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 
 
-
+<!-- FOOTER -->
+<p align="center w-screen">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2&section=footer"/>
+</p>
 
 
