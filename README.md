@@ -30,7 +30,7 @@ I am dedicated to building solutions that make a difference in the tech world an
   </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -44,14 +44,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
-</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
@@ -117,7 +109,11 @@ I am dedicated to building solutions that make a difference in the tech world an
   </a>
 </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
+</picture>
 
 <!-- FOOTER -->
 <p align="center w-screen">
