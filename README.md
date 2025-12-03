@@ -64,50 +64,50 @@ I am dedicated to building solutions that make a difference in the tech world an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunjan-ghate-6506b5288)
 [![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/gunjanghate11)
 
-## Tech Stack:
+<!-- ## Tech Stack: -->
 
-<h3 align="left">Languages</h3>
+<!-- <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,solidity" />
   </a>
-</p>
+</p> -->
 
 
-- ⚛️ Frameworks & Libraries  
-<p align="left">
+<!-- - ⚛️ Frameworks & Libraries -->  
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,shadcn,hardhat" />
   </a>
-</p>
+</p> -->
 
-- 🗄️ Databases & Storage  
-<p align="left">
+<!-- - 🗄️ Databases & Storage  -->
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,appwrite,metamask" />
   </a>
-</p>
+</p> -->
 
-- ☁️ Cloud & Hosting  
-<p align="left">
+<!-- - ☁️ Cloud & Hosting -->  
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify" />
   </a>
-</p>
+</p> -->
 
-- 🔧 Dev Tools & Platforms  
-<p align="left">
+<!-- - 🔧 Dev Tools & Platforms -->  
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,remix,idea,linux,androidstudio,gemini,cursor,huggingface,metamask" />
   </a>
-</p>
+</p> -->
 
-- 🎨 Design Tools  
-<p align="left">
+<!-- - 🎨 Design Tools-->  
+<!-- <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,canva" />
   </a>
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
