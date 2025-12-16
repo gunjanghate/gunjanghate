@@ -12,10 +12,8 @@
 <table>
   <tr>
     <td>
-
-<h1>💫 About Me:</h1>
-
-🚀 Web Developer | 🎯 Competitive Programmer | 🌐 Blockchain Enthusiast  
+<h2>About Me:</h2>
+ 
 - Passionate about building innovative web solutions.  
 - Practicing DSA through competitive programming.  
 - Constantly learning and staying updated with the latest technologies.  
@@ -37,12 +35,12 @@ I am dedicated to building solutions that make a difference in the tech world an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/>
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/> -->
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+ -->
 
-## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
