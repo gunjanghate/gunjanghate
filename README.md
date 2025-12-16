@@ -4,7 +4,7 @@
 # Hello there,
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Gunjan+Ghate;Web2+Developer;Web3+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Gunjan+Ghate;Web2+Developer;Web3+Developer;CS+Undergrad;)](https://git.io/typing-svg)
 </div>
 
 [![Visitor's Count](https://komarev.com/ghpvc/?username=gunjanghate&color=brightgreen)](https://github.com/gunjanghate)
@@ -12,8 +12,9 @@
 <table>
   <tr>
     <td>
-<h2>About Me:</h2>
- 
+<h1>About Me:</h1>
+<p>A Full Stack Web2/Web3 Dev working across Next.js, Mongodb, Solidity, EVMs</p>
+
 - Passionate about building innovative web solutions.  
 - Practicing DSA through competitive programming.  
 - Constantly learning and staying updated with the latest technologies.  
