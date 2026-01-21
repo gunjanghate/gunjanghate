@@ -23,7 +23,8 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=gunjanghate)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <!-- Profile Details Card -->
@@ -100,11 +101,17 @@ I am dedicated to building solutions that make a difference in the tech world an
   </a>
 </p> -->
 
+![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/gunjanghate?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+
+![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
 </picture>
+
+<img height="180em" src="https://leetcard.jacoblin.cool/ghategunjan?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 
 <!-- FOOTER -->
 <p align="center w-screen">
