@@ -22,11 +22,13 @@ I am dedicated to building solutions that make a difference in the tech world an
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 
-## 📊 GitHub Stats:
+## Stats:
 ![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=gunjanghate)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<img height="180em" src="https://leetcard.jacoblin.cool/ghategunjan?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 <!-- Profile Details Card -->
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/> -->
 </div>
@@ -110,8 +112,6 @@ I am dedicated to building solutions that make a difference in the tech world an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
 </picture>
-
-<img height="180em" src="https://leetcard.jacoblin.cool/ghategunjan?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
 
 <!-- FOOTER -->
 <p align="center w-screen">
