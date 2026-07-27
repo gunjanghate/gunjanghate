@@ -23,8 +23,10 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 ## Stats:
 ![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=gunjanghate)
+
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api/?username=gunjanghate&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Gunjan%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img height="180em" src="https://leetcard.jacoblin.cool/ghategunjan?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
