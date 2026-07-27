@@ -20,16 +20,28 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
+<h2 align="">Stats</h2>
 
-## Stats:
-![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=gunjanghate)
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
-![](https://github-stats-extended.vercel.app/api/?username=gunjanghate&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Gunjan%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=gunjanghate&theme=tokyonight&hide_border=false)<br -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjanghate&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-stats-alpha.vercel.app/api/?username=gunjanghate" />
 
-<img height="180em" src="https://leetcard.jacoblin.cool/ghategunjan?theme=dark&font=Josefin%20Slab&ext=heatmap"/>
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-stats-extended.vercel.app/api/?username=gunjanghate&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Gunjan%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" />
+
+</td>
+</tr>
+
+<tr>
+
+</tr>
+</table>
+
 <!-- Profile Details Card -->
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/> -->
 </div>
@@ -45,14 +57,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## Hacktoberfest'25 
 [![An image of @gunjanghate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gunjanghate)](https://holopin.io/@gunjanghate)
 
-## Badges
-
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/LNxGZSLWQYW8lYpq52w81A"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image"></a></blockquote>
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a9c47c51-7156-4921-9d14-cb6911a53fdf" data-share-badge-host="https://www.credly.com"></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05f14f97-59a2-46f3-a498-22fee3d48469" data-share-badge-host="https://www.credly.com"></div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
@@ -104,7 +108,7 @@ I am dedicated to building solutions that make a difference in the tech world an
   </a>
 </p> -->
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/gunjanghate?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)
+<!-- ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/gunjanghate?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native) -->
 
 ![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
 
