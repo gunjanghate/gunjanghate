@@ -7,15 +7,37 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Gunjan+Ghate;Web2+Developer;Web3+Developer;CS+Undergrad;)](https://git.io/typing-svg)
 </div>
 
-<h1>About Me:</h1>
-<p>A Full Stack Web2/Web3 Dev working across Next.js, Mongodb, Solidity, EVMs</p>
+<table>
+<tr>
+<td width="70%" valign="top">
 
+<h1>About Me:</h1>
+
+<p>
+A Full Stack Developer focused on building scalable applications using Next.js, React, Fastify, PostgreSQL, MongoDB, GraphQL, Docker, and AI-powered systems. I also explore Web3 development with Solidity and EVM-based technologies.
+</p>
+
+<p>
+I enjoy building developer tools, contributing to open source, and creating products that solve real-world engineering problems.
+</p>
+
+<p>
 I am dedicated to building solutions that make a difference in the tech world and beyond!
+</p>
+
+<br>
 
 [![Visitor's Count](https://komarev.com/ghpvc/?username=gunjanghate&color=brightgreen)](https://github.com/gunjanghate)
-    <!-- <td>
-      <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Developer GIF" width="300"/>
-    </td> -->
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif" width="260"/>
+
+</td>
+</tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
@@ -109,8 +131,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 </p> -->
 
 <!-- ![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/gunjanghate?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native) -->
-
-![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
