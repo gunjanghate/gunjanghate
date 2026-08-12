@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">  
 <img src="./Aesthetic Twitter Header.png" alt="Developer GIF" width="1000"/>
 
 # Hello there, 
@@ -40,8 +39,9 @@ I am dedicated to building solutions that make a difference in the tech world an
 </table>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+<!--<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
 
+<!--
 <h2 align="">Stats</h2>
 
 <table align="center">
@@ -63,7 +63,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 
 </tr>
 </table>
-
+-->
 <!-- Profile Details Card -->
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gunjanghate&theme=tokyonight" alt="profile details"/> -->
 </div>
@@ -72,15 +72,15 @@ I am dedicated to building solutions that make a difference in the tech world an
  -->
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gunjanghate&theme=react-dark&hide_border=true)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## Hacktoberfest'25 
 [![An image of @gunjanghate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gunjanghate)](https://holopin.io/@gunjanghate)
+-->
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunjan-ghate-6506b5288)
 [![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/gunjanghate11)
